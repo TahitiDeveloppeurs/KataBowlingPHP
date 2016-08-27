@@ -1,0 +1,7 @@
+{
+    "name": "tahiti-dev/kata-bowling-php",
+    "description": "Kata du Bowling en PHP",
+    "require-dev": {
+        "phpunit/phpunit": "~4.0"
+    }
+}
